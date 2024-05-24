@@ -1,1 +1,2 @@
-# par_ou_impar
+# projeto-pauloramos
+Esse foi um dos exercícios propostos;
